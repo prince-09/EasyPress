@@ -1,0 +1,16 @@
+{
+  "name": "easypress",
+  "version": "1.0.1",
+  "description": "my personal cms",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Prince Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mongoose": "^5.10.4"
+  }
+}
